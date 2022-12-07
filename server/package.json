@@ -21,7 +21,7 @@
   "homepage": "https://github.com/White-Mouses/mapchat#readme",
   "dependencies": {
     "@types/node": "^13.1.8",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "mysql": "^2.17.1",
     "reflect-metadata": "^0.1.13",
     "typeorm": "^0.2.22"
